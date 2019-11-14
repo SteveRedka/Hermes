@@ -19,6 +19,8 @@ No punctuation or numbers are possible. Only some latin letters.
 
 Only single space can be posted. But it is possible to use some downcase letters as delimeters.
 
+Other players in your faction will usually see gibberish. Unless your race uses race-specific vocabulary: for example, currently there is separate vocabulary for trolls, so everybody will see translated text - except other trolls.
+
 ## FAQ
 > Isn't cross-faction communication prohibited by EULA?
 
