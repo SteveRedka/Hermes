@@ -1,12 +1,21 @@
 This is a WoW addon that lets you talk to other factions with manageable level of comprehension loss.
 
 ## Using
+### As human to horde
 ```
-/hermes Is it time for you to jump into the next train
+/hermes Thank you
 ```
 Turns into:
 ```
-	I S r I T r T l M E r F O R r Y O U r T O r G U M P r l N T O r T H E r N E X T r T R A I N
+T H AN K r Y O U
+```
+### As orc to alliance
+```
+/hermes Thank you
+```
+Turns into:
+```
+TH A N K n I O Il
 ```
 It also types into chat how members of another chat will see your message, so you will have time to rephrase it.
 
@@ -28,7 +37,4 @@ No, this rule is gone since Blizzard merged Battle.net and WoW EULAs in 2018.
 
 > What can you write to another faction?
 
-Most standard capital latin letters, some downcase latin letters and whitespaces.
-
-## Support
-<a href="https://www.buymeacoffee.com/cHLYfRG" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Most standard capital Latin letters, some downcase latin letters and whitespaces.
