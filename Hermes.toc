@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: Hermes
+## Author: Steve Redka
+## Version: 0.1
+## Notes: Lets you speak to opposing factions with minimal loss of comprehension
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+vocabularies/common.lua
+vocabularies/orcish.lua
+vocabularies/undead.lua
+
+Hermes.lua
