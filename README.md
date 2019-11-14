@@ -22,7 +22,7 @@ Only single space can be posted. But it is possible to use some downcase letters
 ## FAQ
 > Isn't cross-faction communication prohibited by EULA?
 
-No, this rule is gone since Blizzard removed WoW-specific EULA in 2018.
+No, this rule is gone since Blizzard merged Battle.net and WoW EULAs in 2018.
 
 > What can you write to another faction?
 
