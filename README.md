@@ -17,7 +17,7 @@ Orcish suffers in particular, because it misses a bunch of potentially interchan
 
 No punctuation or numbers are possible. Only some latin letters.
 
-Only single space can be posted. But it is possible to use some downcase letters as delimeters.
+Only single space can be posted. But it is possible to use some downcase letters as delimeters. Or you can post one word at a time.
 
 Other players in your faction will usually see gibberish. Unless your race uses race-specific vocabulary: for example, currently there is separate vocabulary for trolls, so everybody will see translated text - except other trolls.
 
