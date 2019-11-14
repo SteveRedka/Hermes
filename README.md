@@ -8,6 +8,7 @@ Turns into:
 ```
 	I S r I T r T l M E r F O R r Y O U r T O r G U M P r l N T O r T H E r N E X T r T R A I N
 ```
+It also types into chat how members of another chat will see your message, so you will have time to rephrase it.
 
 ## Limitations
 It's impossible to make certain letters appear, so this addon tries to substitute them to something close.
