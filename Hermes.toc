@@ -9,5 +9,6 @@
 vocabularies/common.lua
 vocabularies/orcish.lua
 vocabularies/undead.lua
+vocabularies/zandali.lua
 
 Hermes.lua
