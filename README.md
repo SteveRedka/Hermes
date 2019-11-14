@@ -19,6 +19,11 @@ TH A N K n I O Il
 ```
 It also types into chat how members of another chat will see your message, so you will have time to rephrase it.
 
+To yell:
+```
+/yhermes Thank you
+```
+
 ## Limitations
 It's impossible to make certain letters appear, so this addon tries to substitute them to something close.
 
