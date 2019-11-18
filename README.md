@@ -33,7 +33,7 @@ No punctuation or numbers are possible. Only some latin letters.
 
 Only single space can be posted. But it is possible to use some downcase letters as delimeters. Or you can post one word at a time.
 
-Other players in your faction will usually see gibberish. Unless your race uses race-specific vocabulary: for example, currently there is separate vocabulary for trolls, so everybody will see translated text - except other trolls.
+Characters who speak your language will see gibberish. I. e. if you are undead, other undead will see gibberish, but alliance players and non-undead will see translated text.
 
 ## FAQ
 > Isn't cross-faction communication prohibited by EULA?
