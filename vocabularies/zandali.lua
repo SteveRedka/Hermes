@@ -81,11 +81,12 @@ HERMES_ZANDALI = {
 		P = 'R',
 		Q = 'QU',
 		V = 'W',
-		X = 'S',
+		X = 'CS',
+		ZY = 'ZU',
 		Z = 'ZU'
 	},
 
-	SEPARATOR = { 
+	SEPARATOR = {
 		INPUT = 'à',
 		OUTPUT = 'r'
 	}
