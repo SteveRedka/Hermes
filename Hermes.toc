@@ -1,10 +1,11 @@
 ## Interface: 80000
 ## Title: Hermes
 ## Author: Steve Redka
-## Version: 0.1
+## Version: @project-version@
 ## Notes: Lets you speak to opposing factions with minimal loss of comprehension
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+## X-Curse-Project-ID: 351516
 
 vocabularies/common.lua
 vocabularies/orcish.lua
