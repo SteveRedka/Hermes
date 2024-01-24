@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 11500
 ## Title: Hermes
 ## Author: Steve Redka
 ## Version: @project-version@
